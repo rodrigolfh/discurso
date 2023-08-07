@@ -38,7 +38,7 @@ Entonces, estimadas compañeras y compañeros.
 
     Son 15 sobrevivientes que no se quedaron de brazos cruzados.
     Son 15 sobrevivientes que buscaron y estudiaron la solución
-    Son 15 sobrevivientes que trabajan, crían, cuidan, aman, enfrentan el día a día con algo de dificultad,
+    Son 15 sobrevivientes que trabajan, estudian, crían, cuidan, aman, enfrentan el día a día con todas las dificultades pero con todo el tesón,
     Son 15 sobrevivientes que 
 
     Encontraron las herramientas.
@@ -50,7 +50,7 @@ Entonces, estimadas compañeras y compañeros.
 
     Quizás este es el fin de una pequeña parte de un largo camino, pero tengan por sentado que tienen todo lo necesario para llegar cuán lejos se lo propongan.
 
-    Sólo no olviden que cuando la vida trae un bug, quién mejor para solucionar problemas, quién mejor para debuggear que ustedes mismos. Sólo no dejen de desarrollar.
+    Sólo no olviden que cuando la vida trae un bug, quién mejor para solucionar problemas, quién mejor para debuggear esta vida que ustedes mismos. Sólo no dejen de desarrollar.
 
     Muchas Gracias.
 
