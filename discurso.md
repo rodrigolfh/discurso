@@ -50,7 +50,7 @@ Entonces, estimadas compañeras y compañeros.
 
     Quizás este es el fin de una pequeña parte de un largo camino, pero tengan por sentado que tienen todo lo necesario para llegar cuán lejos se lo propongan.
 
-    Sólo no olviden que cuando la vida trae un bug, quién mejor para debuggear que ustedes.
+    Sólo no olviden que cuando la vida trae un bug, quién mejor para solucionar problemas, quién mejor para debuggear que ustedes mismos. Sólo no dejen de desarrollar.
 
     Muchas Gracias.
 
